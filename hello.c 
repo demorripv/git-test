@@ -10,4 +10,9 @@
 
 #to test the pre-push
 #it works hurray gege
+<<<<<<< HEAD
 # trying from two vms now2
+=======
+#added a ew text from vm2
+#scond test 
+>>>>>>> 54f7406a65e4597f9a9b2b97fd7fff550169129c
