@@ -6,6 +6,7 @@ int main()
  
     // prints hello world
     printf("Hello World");
+    printf("wini is coding")
  
     return 0;
 }
