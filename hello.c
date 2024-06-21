@@ -8,7 +8,7 @@ int main()
     printf("Hello World");
     printf("wini is coding");
     // new brnch check
-    printf("trying new branch to try the jenkins");
+    printf("trying new brah to try the jenkins");
     printf("testing for Dr brooks225");
  
     return 0;
