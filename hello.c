@@ -7,9 +7,9 @@ int main()
     // prints hello world
     printf("Hello World");
     printf("wini is coding");
-    // new brnch check
+    // new brANch check
     printf("trying new brah to try the jenkins");
-    printf("testing for Dr brooks225");
+    printf("testing for Dr brooksJUNE-24-2024");
  
     return 0;
 }
