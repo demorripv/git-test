@@ -9,7 +9,7 @@ int main()
     printf("wini is coding");
     // new brANch check
     printf("trying new brah to try the jenkins");
-    printf("testing for Dr brooksJUNE-26-2024 by 23:36");
+    printf("testing for Dr brooksJUNE-26-2024 by 23:10");
  
     return 0;
 }
