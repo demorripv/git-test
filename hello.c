@@ -7,9 +7,11 @@ int main()
     // prints hello world
     printf("Hello World");
     printf("wini is coding");
+    printf("wini is coding");
+
     // new brANch check
     printf("trying new brah to try the jenkins");
-    printf("testing for Dr brooksJUlY-29-2024 by 23:10");
+    printf("testing for Dr brooksJUlY-29-2024 by 00:23");
  
     return 0;
 }
