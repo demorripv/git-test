@@ -19,7 +19,7 @@ int main()
     printf("testing for Dr brooksAUG-28-2024 by 16:50");
 
     printf("testing for Dr brooksoct-18-2024 by 16:50");
-    printf("testing new smart contract updat");
+    printf("testing new smart contract updatE");
  
     return 0;
 }
